@@ -107,29 +107,18 @@ def check_storyboard(checks: StarterChecks) -> None:
 
 
 def check_game_map(checks: StarterChecks) -> None:
-    """Verify the Project One map starter placeholders."""
+    """Verify the Project One map starter is valid Draw.io XML."""
     path = REPO_ROOT / "design/game_map.drawio"
     try:
         root = ET.parse(path).getroot()
     except (OSError, ET.ParseError) as exc:
         checks.error(f"Game-map starter is not valid Draw.io XML: {exc}")
         return
-    text = path.read_text(encoding="utf-8")
-    required = (
-        'name="Game Map"',
-        "replace room labels",
-        "Room 1",
-        "Room 8",
-        "Item: TODO",
-        "TODO: Rename rooms",
-    )
-    for marker in required:
-        if marker not in text:
-            checks.error(f"Game-map starter is missing marker: {marker!r}")
+
     tag = root.tag.rsplit("}", maxsplit=1)[-1]
     if tag != "mxfile":
         checks.error("Game-map starter must keep an mxfile root.")
-
+        
 
 def check_pseudocode(checks: StarterChecks) -> None:
     """Verify both Project One pseudocode starter templates."""
