@@ -18,10 +18,10 @@ Six, and the complete design is implemented and tested in Module Seven.
 
 The student's Project One design consists of:
 
-* `game_storyboard.md`
-* `game_map.drawio`
-* `move.pseudo`
-* `get_item.pseudo`
+* [`game_storyboard.md`](./game_storyboard.md)
+* [`game_map.drawio`](./game_map.md)
+* [`move.pseudo`](./move.pseudo)
+* [`get_item.pseudo`](./get_item.pseudo)
 
 These four files should describe one coherent game.
 
@@ -29,7 +29,7 @@ These four files should describe one coherent game.
 
 The final system coordinates:
 
-* **World state** — room connections and item placement
+* **Game world state** — room connections and item placement
 * **Player location** — current room
 * **Inventory** — collected items
 * **Input** — movement and get-item commands
@@ -50,9 +50,9 @@ Before submission, verify that:
 
 * Room names match.
 * Item names match.
-* The villain location matches.
+* The villain location matches and in final room.
 * The start room and villain room contain no items.
-* The map permits a winning route.
+* The map permits a winning route—player can collect all items before encountering the villain.
 
 ## 4. Map-to-Dictionary Handoff
 
@@ -65,7 +65,7 @@ For each room, the programmer will need to determine:
 * The destination room for each valid direction
 * The item associated with the room, when applicable
 
-Project One does not require writing the final dictionary yet.
+Project One does not require writing the final dictionary.
 
 ## 5. Move Process Design
 
