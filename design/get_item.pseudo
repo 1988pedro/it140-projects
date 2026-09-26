@@ -7,19 +7,27 @@
 # Write pseudocode, not Python code. Use clear indentation and course-appropriate
 # keywords such as INPUT, OUTPUT, IF, ELSE, SET, ADD, or similar terms.
 
-# TODO 1: Identify the information the get-item process needs.
-# Consider the current room, item in that room, and player's inventory.
+START get_item
 
-# TODO 2: Prompt for and receive the player's get-item command.
+    # TODO 1: Identify the information the get-item process needs.
+    # Consider the current room, item in that room, and player's inventory.
 
-# TODO 3: Validate whether the requested item is available in the current
-# room. Show the decision clearly.
+    # TODO 2: Prompt for and receive the player's get-item command.
 
-# TODO 4: Describe what happens when the item request is valid.
-# Include the inventory update and player output.
+    # TODO 3: Validate whether the requested item is available in the current
+    # room. Show the decision clearly.
 
-# TODO 5: Describe what happens when the item request is invalid.
-# Include the output the player should receive.
+    # TODO 4: Describe what happens when the item request is valid.
+    # Include the inventory update and player output.
 
-# TODO 6: Show how the process returns to or continues the larger gameplay
-# loop after the command is handled.
+    # TODO 5: Describe what happens when the item request is invalid.
+    # Include the output the player should receive.
+
+    # TODO 6: Show how the process returns to or continues the larger gameplay
+    # loop after the command is handled.
+
+END get_item
+
+
+# References
+

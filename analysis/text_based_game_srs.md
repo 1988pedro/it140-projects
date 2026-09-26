@@ -28,16 +28,16 @@ The Project One design shall:
 
 * **1.1.1** Describe a game theme.
 * **1.1.2** Describe the basic storyline.
-* **1.1.3** Identify the rooms used in the game.
-* **1.1.4** Identify the items used in the game.
-* **1.1.5** Identify the villain.
+* **1.1.3** Identify eight (8) rooms used in the game.
+* **1.1.4** Identify six (6) collectable items used in the game.
+* **1.1.5** Identify one (1) villain.
 
 ### 1.2 Map Requirements
 
 The game map shall:
 
-* **1.2.1** Include at least **eight rooms**.
-* **1.2.2** Include at least **six items** when using the minimum eight-room design.
+* **1.2.1** Include **eight (8) rooms**.
+* **1.2.2** Include **six (6) collectable items**.
 * **1.2.3** Place **one item in every room except the start room and villain room**.
 * **1.2.4** Use a start room that contains no item.
 * **1.2.5** Use a villain room that contains no item.
@@ -77,16 +77,6 @@ Project One requires these four submissions:
 * **1.5.2** `design/game_map.drawio`
 * **1.5.3** `design/move.pseudo`
 * **1.5.4** `design/get_item.pseudo`
-
-### 1.6 Project One Rubric Traceability
-
-The Project One rubric evaluates:
-
-* Storyboard: Theme and Map — **20%**
-* Pseudocode: Logical Steps and Functionality — **30%**
-* Pseudocode: Input / Output — **20%**
-* Pseudocode: Program Flow — **25%**
-* Clear Communication — **5%**
 
 ## 2. Module Six Milestone | Construct and Test a Reduced Prototype
 
@@ -133,17 +123,6 @@ The Module Six Milestone requires:
 
 The milestone does not require items, inventory, a villain, or Project Two
 win/loss behavior.
-
-### 2.5 Milestone Rubric Traceability
-
-The Module Six Milestone rubric evaluates:
-
-* Functionality — **30%**
-* Gameplay Loop — **10%**
-* Decision Branching — **20%**
-* Input Validation — **20%**
-* Debugging — **10%**
-* Industry Standard Best Practices — **10%**
 
 ## 3. Project Two | Construct and Test the Complete Game
 
@@ -220,19 +199,6 @@ The completed game shall be tested and debugged for at least:
 * **3.6.5** Winning behavior.
 * **3.6.6** Losing behavior.
 
-### 3.7 Project Two Rubric Traceability
-
-The Project Two rubric evaluates:
-
-* Functions — **10%**
-* Main Function: Dictionary — **10%**
-* Main Function: Gameplay Loop — **15%**
-* Main Function: Function Calls — **5%**
-* Main Function: Decision Branching — **20%**
-* Input Validation — **20%**
-* Debugging — **10%**
-* Industry Standard Best Practices — **10%**
-
 ## 4. Cross-Module Handoff Requirements
 
 | Earlier artifact | Later use |
@@ -248,7 +214,7 @@ The later checkpoint may require revisions based on instructor feedback, but
 sample milestone data should not overwrite the student's approved Project One
 design.
 
-## 5. Out of Scope Unless Added by Current Course Instructions
+## 5. Out of Scope
 
 Do not treat extra commercial-game features as required merely because they are
 common elsewhere. Core requirements do not state a need for:

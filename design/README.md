@@ -37,7 +37,15 @@ flowcharts. This repository includes reference images for those processes:
 * [`move.drawio.png`](move.drawio.png) — move-between-rooms reference
 * [`get_item.drawio.png`](get_item.drawio.png) — get-item reference
 
-Use the flowcharts to understand required process structure. Do not copy a
+**Figure 1.** *Move-Between-Rooms Flowchart*
+
+![Move-Between-Rooms Flowchart](./move.drawio.png)
+
+**Figure 2.** *Get Items Flowchart*
+
+![Move-Between-Rooms Flowchart](./get_item.drawio.png)
+
+Use the flowcharts to understand required process structure and inform your pseudocode. Do not copy a
 sample game world in place of your own theme, rooms, items, or villain.
 
 ## 1. Complete the Storyboard
