@@ -52,8 +52,8 @@ TODO: Identify and briefly describe the villain.
 
 Before submitting, compare this storyboard with `game_map.drawio`.
 
-* [ ] I included at least eight rooms.
-* [ ] I included at least six items for an eight-room design.
+* [ ] I included eight (8) rooms.
+* [ ] I included six (6) collectable items.
 * [ ] The start room has no item.
 * [ ] The villain room has no item.
 * [ ] Every room except the start room and villain room contains one item.
