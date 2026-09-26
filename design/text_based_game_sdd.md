@@ -19,7 +19,7 @@ Six, and the complete design is implemented and tested in Module Seven.
 The student's Project One design consists of:
 
 * [`game_storyboard.md`](./game_storyboard.md)
-* [`game_map.drawio`](./game_map.md)
+* [`game_map.drawio`](./game_map.drawio)
 * [`move.pseudo`](./move.pseudo)
 * [`get_item.pseudo`](./get_item.pseudo)
 
