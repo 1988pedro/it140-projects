@@ -39,7 +39,7 @@ Review:
 2. Milestone Simplified Dragon Text Game supporting resources
 3. Your Project One [`../design/move.pseudo`](../design/move.pseudo)
 4. Project One instructor feedback related to movement
-5. [SRS Section 2](../analysis/text_based_game_srs.md#2-module-six-milestone--construct-and-test-a-reduced-prototype)
+5. [SRS Section 2](../analysis/5-3_requirements.md#2-module-six-milestone--construct-and-test-a-reduced-prototype)
 
 Your Project One movement pseudocode can help you think about input, validation,
 branching, and room updates. The milestone's **actual required scenario** still

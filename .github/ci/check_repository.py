@@ -54,7 +54,7 @@ REQUIRED_FILES = (
     ".github/workflows/tests.yml",
     ".vscode/settings.json",
     "analysis/README.md",
-    "analysis/text_based_game_srs.md",
+    "analysis/5-3_requirements.md",
     "design/README.md",
     "design/game_storyboard.md",
     "design/game_map.drawio",
@@ -63,7 +63,7 @@ REQUIRED_FILES = (
     "design/move.drawio.png",
     "design/move.pseudo",
     "design/tbg_flowchart.drawio.png",
-    "design/text_based_game_sdd.md",
+    "design/5-3_desgin.md",
     "prototype/README.md",
     "prototype/move_between_rooms.py",
     "prototype/move_between_rooms_sdw.md",
@@ -108,7 +108,7 @@ REQUIRED_TEXT_MARKERS = {
         "## Module Seven | Reanalyze Before Integration",
         "## Analyze Checkpoint",
     ),
-    "analysis/text_based_game_srs.md": (
+    "analysis/5-3_requirements.md": (
         "# Software Requirements Specification (SRS)",
         "## 1. Project One | Analyze and Design Requirements",
         "## 2. Module Six Milestone | Construct and Test a Reduced Prototype",
@@ -121,7 +121,7 @@ REQUIRED_TEXT_MARKERS = {
         "## 5. Review Against the Project One Rubric",
         "## Project One Submission Checkpoint",
     ),
-    "design/text_based_game_sdd.md": (
+    "design/5-3_desgin.md": (
         "# Software Design Document",
         "## 2. High-Level Game Model",
         "## 7. Module Six Prototype Handoff",

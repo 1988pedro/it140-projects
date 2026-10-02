@@ -36,8 +36,8 @@
 > [!NOTE]
 > The IT 140 project SDLC is distributed across **three modules**. Do not create a new project repository for each task.
 >
-> **Module 5:** Analyze + Design → submit Project One  
-> **Module 6:** Construct + Test a simplified prototype → submit the Milestone  
+> **Module 5:** Analyze + Design → submit Project One
+> **Module 6:** Construct + Test a simplified prototype → submit the Milestone
 > **Module 7:** Construct + Test the final game → submit Project Two
 
 ## Three Graded Checkpoints
@@ -69,14 +69,14 @@ Use this source priority if instructions ever differ:
 it140-projects/
 ├── analysis/                   # Requirements reference across M5–M7
 │   ├── README.md
-│   └── text_based_game_srs.md
+│   └── 5-3_requirements.md
 ├── design/                     # M5 Project One: graded design deliverables
 │   ├── README.md
 │   ├── game_storyboard.md      # graded M5
 │   ├── game_map.drawio         # graded M5
 │   ├── move.pseudo             # graded M5
 │   ├── get_item.pseudo         # graded M5
-│   └── text_based_game_sdd.md  # course-provided reference
+│   └── 5-3_desgin.md  # course-provided reference
 ├── prototype/                  # M6 Milestone: reduced construct/test cycle
 │   ├── README.md
 │   ├── move_between_rooms.py   # graded M6
@@ -252,7 +252,7 @@ Project One covers the **Analyze and Design** portions of the project SDLC. You 
 
 Open [`analysis/README.md`](analysis/README.md).
 
-Use the Project One Guidelines and Rubric, sample game resources, and the [Text-Based Game SRS](analysis/text_based_game_srs.md) to identify:
+Use the Project One Guidelines and Rubric, sample game resources, and the [Text-Based Game SRS](analysis/5-3_requirements.md) to identify:
 
 * The game goal and losing condition
 * The minimum room and item requirements

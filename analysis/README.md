@@ -12,7 +12,7 @@ code it.
 
 The IT 140 text-game project spans three graded activities. The current
 Guidelines and Rubric for each activity is the official source of requirements.
-The [Software Requirements Specification (SRS)](text_based_game_srs.md)
+The [Software Requirements Specification (SRS)](5-3_requirements.md)
 reorganizes those requirements by checkpoint so you can see what stays the same
 and what changes as the project develops.
 
@@ -33,7 +33,7 @@ Use:
 
 * Project One Guidelines and Rubric in D2L Brightspace
 * Sample Dragon Text Game supporting materials
-* [Text-Based Game SRS](text_based_game_srs.md), Section 1
+* [Text-Based Game SRS](5-3_requirements.md), Section 1
 
 Identify the following before designing:
 
@@ -97,7 +97,7 @@ Before Project Two, review:
 * Module Six code and instructor feedback
 * Project Two Guidelines and Rubric
 * Project Two supporting flowchart/output materials
-* [Text-Based Game SRS](text_based_game_srs.md), Section 3
+* [Text-Based Game SRS](5-3_requirements.md), Section 3
 
 Ask:
 

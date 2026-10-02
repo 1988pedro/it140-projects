@@ -25,7 +25,7 @@ Complete all four Project One files:
 | [`move.pseudo`](move.pseudo) | Movement input, validation, room update, output, flow | M6 prototype and M7 movement logic |
 | [`get_item.pseudo`](get_item.pseudo) | Get-item input, validation, inventory update, output, flow | M7 item/inventory logic |
 
-The [Software Design Document (SDD)](text_based_game_sdd.md) is a
+The [Software Design Document (SDD)](5-3_desgin.md) is a
 course-provided reference. It explains design relationships without supplying a
 completed game solution.
 

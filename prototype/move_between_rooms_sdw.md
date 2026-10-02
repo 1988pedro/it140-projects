@@ -21,7 +21,7 @@ your Project One movement design into a small implementation plan.
 * Module Six Milestone Guidelines and Rubric
 * Milestone Simplified Text Game Flowchart/supporting materials
 * `../design/move.pseudo`
-* `../analysis/text_based_game_srs.md`, Section 2
+* `../analysis/5-3_requirements.md`, Section 2
 
 ### Prompt
 
